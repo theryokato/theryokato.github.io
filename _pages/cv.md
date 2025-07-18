@@ -11,54 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**Texas A&M University | College Station, TX**
+B.Sc in Mechanical Engineering, Minor in Mathematics
+  * **GPA:** 3.8/4.0
+
+**Relavant Coursework** 
+Engineering Mechanics, Statistics, Principles of Materials and Manufacturing
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Open to internships!
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+Activities & Projects
+======
+**TURTLE Robotics** 
+Autonomous Disaster Response Drone Swarm | Jan 2025 - Present
+ * Implementing navigational capabilities using INAV and troubleshooting electrical components
+
+**TAMU Rocket Engine Design**
+Avionics Subteam | May 2025 - Present
+ * Control systems for the next pressure-fed liquid bipropellant rocket engine
+Structures Subteam | Feb 2025 - Aug 2025
+ * Designed a flame diverter, conducted design reviews and failure mode analysis
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Technical Skills:** Python, Embedded C, ROS2
+* **Software:** SolidWorks, Linux, ROS2
+* **Languages:** English, Japanese
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
