@@ -14,13 +14,13 @@ Ryo Kato
 **College Station, TX 77845**
 [LinkedIn](www.linkedin.com/in/ryokato-texasam) | [email](ryokato.tamu.edu) | [+1 (970) 286-4408](+19702864408)
 
-Download my Resume
------
+## Download my Resume
+
 [Download Resume (2025-6-19)](https://theryokato.github.io/files/ryokato-resume.pdf)
 
 
-Education
------
+## Education
+
 **Texas A&M University | College Station, TX**
 B.Sc in Mechanical Engineering, Minor in Mathematics
   * **GPA:** 3.8/4.0
@@ -29,13 +29,13 @@ B.Sc in Mechanical Engineering, Minor in Mathematics
 Engineering Mechanics, Statistics, Principles of Materials and Manufacturing
 
 
-Work experience
------
+## Work experience
+
 Open to internships!
 
 
-Activities & Projects
------
+## Activities & Projects
+
 **TURTLE Robotics** 
 Autonomous Disaster Response Drone Swarm | Jan 2025 - Present
  * Implementing navigational capabilities using INAV and troubleshooting electrical components
@@ -47,8 +47,8 @@ Structures Subteam | Feb 2025 - Aug 2025
  * Designed a flame diverter, conducted design reviews and failure mode analysis
 
 
-Skills
------
+## Skills
+
 * **Technical Skills:** Python, Embedded C, ROS2
 * **Software:** SolidWorks, Linux, ROS2
 * **Languages:** English, Japanese
