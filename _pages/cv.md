@@ -25,7 +25,7 @@ redirect_from:
 
 ## Education
 
-**Texas A&M University | College Station, TX**
+**Texas A&M University, College Station, TX**
 
 *B.Sc in Mechanical Engineering, Minor in Mathematics*
   * **GPA:** 3.8/4.0
