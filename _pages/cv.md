@@ -9,15 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Ryo Kato
-=====
+# Ryo Kato
+
 **College Station, TX 77845**
 [LinkedIn](www.linkedin.com/in/ryokato-texasam) | [email](ryokato.tamu.edu) | [+1 (970) 286-4408](+19702864408)
+
+---
 
 ## Download my Resume
 
 [Download Resume (2025-6-19)](https://theryokato.github.io/files/ryokato-resume.pdf)
 
+---
 
 ## Education
 
@@ -28,10 +31,14 @@ B.Sc in Mechanical Engineering, Minor in Mathematics
 **Relavant Coursework** 
 Engineering Mechanics, Statistics, Principles of Materials and Manufacturing
 
+---
+
 
 ## Work experience
 
 Open to internships!
+
+---
 
 
 ## Activities & Projects
@@ -46,6 +53,8 @@ Avionics Subteam | May 2025 - Present
 Structures Subteam | Feb 2025 - Aug 2025
  * Designed a flame diverter, conducted design reviews and failure mode analysis
 
+---
+
 
 ## Skills
 
@@ -53,3 +62,4 @@ Structures Subteam | Feb 2025 - Aug 2025
 * **Software:** SolidWorks, Linux, ROS2
 * **Languages:** English, Japanese
   
+---

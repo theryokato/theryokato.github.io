@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
-title                    : "Ryo Kato / Portfolio"
+site_theme               : "dark"
+title                    : "Ryo Kato"
 title_separator          : "-"
 name                     : &name "Ryo Kato"
 description              : &description "Portfolio Website"
