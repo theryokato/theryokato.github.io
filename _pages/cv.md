@@ -26,6 +26,7 @@ redirect_from:
 ## Education
 
 **Texas A&M University | College Station, TX**
+
 *B.Sc in Mechanical Engineering, Minor in Mathematics*
   * **GPA:** 3.8/4.0
 
@@ -45,10 +46,12 @@ Open to internships!
 ## Activities & Projects
 
 **TURTLE Robotics** 
+
 *Autonomous Disaster Response Drone Swarm | Jan 2025 - Present*
  * Implementing navigational capabilities using INAV and troubleshooting electrical components
 
 **TAMU Rocket Engine Design**
+
 *Avionics Subteam | May 2025 - Present*
  * Control systems for the next pressure-fed liquid bipropellant rocket engine
  * Devising testing procedures to collect critical test data for system identification, enabling accurate throttling
