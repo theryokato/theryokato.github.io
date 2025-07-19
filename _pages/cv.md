@@ -26,14 +26,14 @@ redirect_from:
 ## Education
 
 **Texas A&M University | College Station, TX**
-B.Sc in Mechanical Engineering, Minor in Mathematics
+*B.Sc in Mechanical Engineering, Minor in Mathematics*
   * **GPA:** 3.8/4.0
 
 **Relavant Coursework** 
 Engineering Mechanics, Statistics, Principles of Materials and Manufacturing
 
---
--
+
+---
 
 ## Work experience
 
@@ -45,14 +45,18 @@ Open to internships!
 ## Activities & Projects
 
 **TURTLE Robotics** 
-Autonomous Disaster Response Drone Swarm | Jan 2025 - Present
+*Autonomous Disaster Response Drone Swarm | Jan 2025 - Present*
  * Implementing navigational capabilities using INAV and troubleshooting electrical components
 
 **TAMU Rocket Engine Design**
-Avionics Subteam | May 2025 - Present
+*Avionics Subteam | May 2025 - Present*
  * Control systems for the next pressure-fed liquid bipropellant rocket engine
-Structures Subteam | Feb 2025 - Aug 2025
- * Designed a flame diverter, conducted design reviews and failure mode analysis
+ * Devising testing procedures to collect critical test data for system identification, enabling accurate throttling
+
+*Structures Subteam | Feb 2025 - Aug 2025*
+ * Designed a steel flame diverter capable of redirecting a 1800K exhaust plume for 15+ seconds
+ * Engineered structural supports for pressurized storage tanks with Finite Element Analysis (FEA)
+ * Conducted failure mode and effects analysis (FMEA) and developed component testing procedures
 
 
 ---
