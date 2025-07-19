@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume/CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,16 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Ryo Kato
+=====
+**College Station, TX 77845**
+[LinkedIn](www.linkedin.com/in/ryokato-texasam) | [email](ryokato.tamu.edu) | [+1 (970) 286-4408](+19702864408)
+
+Download my Resume
+-----
+[Download Resume (2025-6-19)](https://theryokato.github.io/files/ryokato-resume.pdf)
+
 
 Education
 -----
