@@ -10,11 +10,13 @@ I am a sophomore at Texas A&M University pursuing a B.Sc in Mechanical Engineeri
 
 
 Labs
-======
-
+-----
+| Lab/Office | Location | Role | Focus |
+| --- | --- | --- | --- |
+| [TURTLE Robotics Lab](turtlerobotics.org) | HEB 023 (Haynes Engineering Building) | Logistics Officer | Creating and managing the application system.
 
 Contact
-======
+-----
 Feel free to reach out to me via [email](ryokato@tamu.edu) or connect with me on [LinkedIn](www.linkedin.com/in/ryokato-texasam)
 
 

@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+-----
 **Texas A&M University | College Station, TX**
 B.Sc in Mechanical Engineering, Minor in Mathematics
   * **GPA:** 3.8/4.0
@@ -20,12 +20,12 @@ Engineering Mechanics, Statistics, Principles of Materials and Manufacturing
 
 
 Work experience
-======
+-----
 Open to internships!
 
 
 Activities & Projects
-======
+-----
 **TURTLE Robotics** 
 Autonomous Disaster Response Drone Swarm | Jan 2025 - Present
  * Implementing navigational capabilities using INAV and troubleshooting electrical components
@@ -38,7 +38,7 @@ Structures Subteam | Feb 2025 - Aug 2025
 
 
 Skills
-======
+-----
 * **Technical Skills:** Python, Embedded C, ROS2
 * **Software:** SolidWorks, Linux, ROS2
 * **Languages:** English, Japanese
