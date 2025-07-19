@@ -21,6 +21,7 @@ redirect_from:
 [Download Resume (2025-6-19)](https://theryokato.github.io/files/ryokato-resume.pdf)
 
 
+
 ## Education
 
 **Texas A&M University | College Station, TX**
@@ -31,9 +32,11 @@ B.Sc in Mechanical Engineering, Minor in Mathematics
 Engineering Mechanics, Statistics, Principles of Materials and Manufacturing
 
 
+
 ## Work experience
 
 Open to internships!
+
 
 
 ## Activities & Projects
@@ -47,6 +50,7 @@ Avionics Subteam | May 2025 - Present
  * Control systems for the next pressure-fed liquid bipropellant rocket engine
 Structures Subteam | Feb 2025 - Aug 2025
  * Designed a flame diverter, conducted design reviews and failure mode analysis
+
 
 
 ## Skills
