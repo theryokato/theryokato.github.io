@@ -17,8 +17,8 @@ redirect_from:
 
 
 ## Download my Resume
---- 
-[Download Resume (2025-6-19)](https://theryokato.github.io/files/ryokato-resume.pdf)
+
+[Download Resume (2025-7-19)](https://theryokato.github.io/files/ryokato-resume.pdf)
 
 
 
