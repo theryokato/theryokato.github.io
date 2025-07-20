@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-# Ryo Kato
+## Ryo Kato
 
 **College Station, TX 77845**
-[LinkedIn](www.linkedin.com/in/ryokato-texasam) | [Email](mailto:ryokato.tamu.edu) | +1 (970) 286-4408]
+[LinkedIn](www.linkedin.com/in/ryokato-texasam) | [Email](mailto:ryokato.tamu.edu) | +1 (970) 286-4408
 
 
 
-## Download my Resume
+### Download my Resume
 
 [Download Resume (2025-7-19)](https://theryokato.github.io/files/ryokato-resume.pdf)
 
@@ -24,12 +24,12 @@ redirect_from:
 
 ## Education
 ---
-**Texas A&M University, College Station, TX**
+Texas A&M University, College Station, TX
 
-*B.Sc in Mechanical Engineering, Minor in Mathematics*
+*B.Sc. in Mechanical Engineering, Minor in Mathematics*
   * **GPA:** 3.8/4.0
 
-**Relavant Coursework** 
+**Relavant Coursework:** 
 Engineering Mechanics, Statistics, Principles of Materials and Manufacturing
 
 
@@ -65,7 +65,7 @@ Open to internships!
 ## Skills
 --- 
 * **Technical Skills:** Python, Embedded C, ROS2
-* **Software:** SolidWorks, Linux, ROS2
+* **Software:** SolidWorks, Linux, ROS2, Git/Github, Visual Studio Code
 * **Languages:** English, Japanese
   
 
