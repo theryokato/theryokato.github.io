@@ -64,8 +64,8 @@ Open to internships!
 
 ## Skills
 --- 
-* **Technical Skills:** Python, Embedded C, ROS2
-* **Software:** SolidWorks, Linux, ROS2, Git/Github, Visual Studio Code
+* **Programming Languages:** Python, Embedded C
+* **Software:** SolidWorks, Linux, ROS2, Git/GitHub, Visual Studio Code
 * **Languages:** English, Japanese
   
 
