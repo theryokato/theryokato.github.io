@@ -2,7 +2,7 @@
 title: "Disaster Response Observation Network (DRON)"
 collection: publications
 category: conferences_poster
-permalink: /publication/dron-poster-2025
+permalink: #/publication/dron-poster-2025
 excerpt:
 date: 2025-4-25
 venue: 'TURTLE Project Showcase'
