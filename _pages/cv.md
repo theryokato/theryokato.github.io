@@ -12,7 +12,6 @@ redirect_from:
 ## Ryo Kato
 
 **College Station, TX 77845**
-
 [LinkedIn](www.linkedin.com/in/ryokato-texasam) | [Email](mailto:ryokato.tamu.edu) | +1 (970) 286-4408
 
 
