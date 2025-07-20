@@ -45,7 +45,7 @@ Open to internships!
 
 
 ### TURTLE Robotics
---- 
+
 *Autonomous Disaster Response Drone Swarm | Jan 2025 - Present*
  * Implementing navigational capabilities using INAV and troubleshooting electrical components
 
