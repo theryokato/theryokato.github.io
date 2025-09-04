@@ -36,7 +36,8 @@ Engineering Mechanics, Statistics, Principles of Materials and Manufacturing
 
 ## Work experience
 --- 
-Open to internships!
+*ENGR 102 Peer Teacher*
+ * Assisting the professor during classes and grading lab submissions
 
 
 
