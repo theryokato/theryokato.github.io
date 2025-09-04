@@ -14,7 +14,7 @@ I am a sophomore at Texas A&M University pursuing a B.Sc. in Mechanical Engineer
 
 | **Lab/Office** | **Location** | **Role** | **Focus** |
 |---------------------|---------------------------------------|-------------------|----------------------|
-| **[CTRLROBOT Lab](https://zh.engr.tamu.edu/)** | JCAIN (James J. Cain '51 Building) | Undergraduate Researcher | Researching gripping mechanisms for drone perching |
+| **[CTRLROBOT Lab](https://zh.engr.tamu.edu/)** | JCAIN (James J. Cain '51 Building) | Undergraduate Researcher | Researching passive gripping mechanisms for drone perching |
 | **[TURTLE Robotics Lab](turtlerobotics.org)** | HEB 023 (Haynes Engineering Building) | Logistics Officer | Creating and managing the application system. |
 
 
