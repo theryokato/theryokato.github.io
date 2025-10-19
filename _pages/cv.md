@@ -13,7 +13,7 @@ redirect_from:
 College Station, TX 77845 | [LinkedIn](www.linkedin.com/in/ryokato-texasam) | [Email](mailto:ryokato.tamu.edu) | +1 (970) 286-4408
 
 
-[Download CV (2025-10)](https://theryokato.github.io/files/ryokato-CV.pdf)
+[Download CV (2025-10)](files/Ryo_Kato_CV.pdf)
 
 
 ## Education
