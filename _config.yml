@@ -85,7 +85,7 @@ publication_category:
     title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
-  conferences:
+  conference_poster:
     title: 'Conference Papers'
 
 # Site Settings
