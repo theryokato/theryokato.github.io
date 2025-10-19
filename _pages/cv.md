@@ -36,7 +36,7 @@ Mechanical Engineering student at Texas A&M University experienced in building r
 **Undergraduate Researcher** | *Aug 2025 - Present*
 * Conducting research into a 3D printable anthropomorphic robotic gripper, implementing control algorithms and integrating force-sensing resistors for feedback control
 
-### TURTLE Robotics
+### Texas A&M University Robotics Team and Leadership Experience (TURTLE)
 
 **Controls System Engineer - BLNC** | *Aug 2025 - Present*
 * Implementing a cascade PID control system for a self-balancing two-wheeled robot, enabling movement and position control
