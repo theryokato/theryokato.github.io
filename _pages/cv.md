@@ -20,7 +20,7 @@ College Station, TX 77845 | [LinkedIn](www.linkedin.com/in/ryokato-texasam) | [E
 ---
 **Texas A&M University**, College Station, TX
 
-*B.Sc. in Mechanical Engineering, Minor in Mathematics* | 3.8/4.0
+*B.Sc. in Mechanical Engineering, Minor in Mathematics*, GPA: 3.8/4.0
 
 **Relavant Coursework:** Differential Equations, Engineering Mechanics, Principles of Materials and Manufacturing, Statistics
 
