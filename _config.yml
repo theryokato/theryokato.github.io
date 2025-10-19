@@ -23,7 +23,7 @@ repository               : https://theryokato.github.io
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           :"https://theryokato.github.io/files/pfp.png"
+  avatar           : "https://theryokato.github.io/files/pfp.png"
   name             : "Ryo Kato"
   pronouns         : # "he/him" 
   bio              : "Mechanical Engineering @ Texas A&M"
