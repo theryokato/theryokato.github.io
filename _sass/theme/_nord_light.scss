@@ -9,10 +9,10 @@ $darker-primary-color       : mix(#000, $primary-color, 55%);
 $light-primary-color        : mix(#fff, $primary-color, 45%);
 
 $background                 : #eceff4; // Nord Snow Storm
-$background-light           : #e5e9f0;
+$background-light           : #d8dee9;
 $background-lighter         : #d8dee9;
 $text                       : #2e3440; // Nord Polar Night
-$link                       : #88c0d0;
+$link                       : mix($primary-color, $text, 45%);
 $link-dark                  : mix(#000, $link, 20%);
 $link-light                 : mix(#fff, $link, 25%);
 $footer                     : #e5e9f0;
