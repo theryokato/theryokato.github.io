@@ -1,0 +1,55 @@
+/* ==========================================================================
+   Nord dark skin (inspired by the Nord color palette)
+   ========================================================================== */
+
+/* Color codes used for the theme (Nord palette) */
+$primary-color              : #88c0d0; // Nord Frost
+$dark-primary-color         : mix(#000, $primary-color, 35%);
+$darker-primary-color       : mix(#000, $primary-color, 55%);
+$light-primary-color        : mix(#fff, $primary-color, 25%);
+
+$background                 : #2e3440; // Nord Polar Night
+$background-light           : #3b4252;
+$background-lighter         : #434c5e;
+$text                       : #eceff4; // Nord Snow Storm
+$link                       : mix($primary-color, $text, 45%);
+$link-dark                  : mix(#000, $link, 25%);
+$link-light                 : mix(#fff, $link, 20%);
+$footer                     : #252a33;
+
+/* Semantic colors (Nord accents) */
+$danger-color               : #bf616a;
+$info-color                 : #5e81ac;
+$notice-color               : #81a1c1;
+$success-color              : #a3be8c;
+$warning-color              : #ebcb8b;
+
+/* Other basic settings for the template */
+$border-radius              : 4px;
+$box-shadow                 : 0 1px 2px rgba(0, 0, 0, 0.35);
+$global-transition          : all 0.2s ease-in-out;
+$masthead-height            : 70px;
+$navicon-width              : 28px;
+$navicon-height             : 4px;
+$sidebar-link-max-width     : 250px;
+$sidebar-screen-min-width   : 1024px;
+
+/* Dark theme for the site */
+html[data-theme="dark"] {
+    --global-base-color                 : #{$background};
+    --global-bg-color                   : #{$background};
+    --global-footer-bg-color            : #{$footer};
+    --global-border-color               : #{$background-lighter};
+    --global-dark-border-color          : #{$background-light};
+    --global-code-background-color      : #{$background-light};
+    --global-code-text-color            : #{$primary-color};
+    --global-fig-caption-color          : #{$notice-color};
+    --global-link-color                 : #{$link};
+    --global-link-color-hover           : #{$link-light};
+    --global-link-color-visited         : #{$notice-color};
+    --global-masthead-link-color        : #{$text};
+    --global-masthead-link-color-hover  : #{$primary-color};
+    --global-text-color                 : #{$text};
+    --global-text-color-light           : #{$notice-color};
+    --global-thead-color                : #{$background-lighter};
+}
