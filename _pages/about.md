@@ -12,4 +12,4 @@ Howdy! I am a second-year Mechanical Engineering student at Texas A&M University
 I am an officer under [TURTLE Robotics](https://www.turtlerobotics.org/), having worked on a prosthetic hand, an autonomous drone swarm, and a self-balancing robot. I am also member of [TAMU Rocket Engine Design](https://www.tamured.space/), where we are building Texas A&M's most powerful rocket engine in history.
 
 ## Contact
-Feel free to reach out to me via [email](ryokato@tamu.edu) or connect with me on [LinkedIn](www.linkedin.com/in/ryokato-texasam).
+Feel free to reach out to me via [email](ryokato@tamu.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/ryokato-texasam).
