@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Nord light skin (inspired by the Nord color palette)
+   Nord light skin (corrected for visible borders)
    ========================================================================== */
 
 /* Color codes used for the theme (Nord palette) */
@@ -9,7 +9,7 @@ $darker-primary-color       : mix(#000, $primary-color, 55%);
 $light-primary-color        : mix(#fff, $primary-color, 45%);
 
 $background                 : #eceff4; // Nord Snow Storm
-$background-light           : #d8dee9;
+$background-light           : #e5e9f0;
 $background-lighter         : #d8dee9;
 $text                       : #2e3440; // Nord Polar Night
 $link                       : mix($primary-color, $text, 45%);
@@ -17,14 +17,18 @@ $link-dark                  : mix(#000, $link, 20%);
 $link-light                 : mix(#fff, $link, 25%);
 $footer                     : #e5e9f0;
 
-/* Semantic colors (aligned with Nord accents) */
+/* Semantic colors */
 $danger-color               : #bf616a;
 $info-color                 : #5e81ac;
 $notice-color               : #4c566a;
 $success-color              : #a3be8c;
 $warning-color              : #ebcb8b;
 
-/* Other basic settings for the template */
+/* Derived border colors (key fix) */
+$border-light               : mix(#000, $background, 12%);
+$border-dark                : mix(#000, $background, 18%);
+
+/* Other basic settings */
 $border-radius              : 4px;
 $box-shadow                 : 0 1px 2px rgba(46, 52, 64, 0.15);
 $global-transition          : all 0.2s ease-in-out;
@@ -34,13 +38,15 @@ $navicon-height             : 4px;
 $sidebar-link-max-width     : 250px;
 $sidebar-screen-min-width   : 1024px;
 
-/* Light theme for the site */
+/* Light theme */
 html[data-theme="light"] {
     --global-base-color                 : #{$background};
     --global-bg-color                   : #{$background};
     --global-footer-bg-color            : #{$footer};
-    --global-border-color               : #{$background-lighter};
-    --global-dark-border-color          : #{$background-light};
+
+    --global-border-color               : #{$border-light};
+    --global-dark-border-color          : #{$border-dark};
+
     --global-code-background-color      : #{$background-light};
     --global-code-text-color            : #{$darker-primary-color};
     --global-fig-caption-color          : #{$notice-color};
